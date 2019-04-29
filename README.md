@@ -12,22 +12,33 @@ I've created the neighborhood graph for these pages and on that I've used the HI
 
 There are three input that the code takes : 
 query: the search query that you want to search
+
 k: this tells the program how many base set pages to include per seed set pages
-N: this gives you the ability to fetch the names of the pages with the top hub and authority values. It fetches the top N hub and authority
-pages
+
+N: this gives you the ability to fetch the names of the pages with the top hub and authority values. It fetches the top N hub and authority pages
 
 
 Output:
 description.txt : contains the links of all seed pages and their titles
+
 expanded.txt : contains all the links extracted from the seed pages 
+
 graph.txt : contains the neighborhood graph
+
 mapping.txt : contains the parent-child mapping between seed and base set pages
+
 maxValues.txt : contains the top N seed and authority pages
+
 output.txt : contains the hub and authority scores for all the pages
+
 seed.txt: contains all the links of the seed set pages
 
 I've placed some output files to be viewed.
+
 They are generated for the following inputs
+
 query: machine learning
+
 k: 30
+
 N: 10
