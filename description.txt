@@ -1,0 +1,54 @@
+Link : https://searchenterpriseai.techtarget.com/definition/machine-learning-ML
+Description : What is machine learning (ML)? - Definition from WhatIs.com
+Link : https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t
+Description : Become a Machine Learning Engineer | Udacity
+Link : https://www.coursera.org/learn/machine-learning
+Description : Machine Learning | Coursera
+Link : https://www.sas.com/en_us/insights/analytics/machine-learning.html
+Description : Machine Learning: What it is and why it matters | SAS
+Link : https://azure.microsoft.com/en-us/services/machine-learning-service/
+Description : Azure Machine Learning Service | Microsoft Azure
+Link : https://www.ml.cmu.edu/
+Description : Machine Learning | Carnegie Mellon University
+Link : https://www.expertsystem.com/machine-learning-definition/
+Description : What is Machine Learning? A definition - Expert System
+Link : https://emerj.com
+Description : Emerj - Artificial Intelligence Research and Insight
+Link : https://developers.google.com/machine-learning/crash-course/
+Description : Machine Learning Crash Course | Google Developers
+Link : https://www.elastic.co/products/stack/machine-learning
+Description : Unsupervised Machine Learning for Elasticsearch | Elastic
+Link : https://www.geeksforgeeks.org/machine-learning/
+Description : Machine Learning - GeeksforGeeks
+Link : https://www.sap.com/products/leonardo/machine-learning.html
+Description : Machine Learning Applications and Platform | SAP Leonardo
+Link : https://en.wikipedia.org/wiki/Machine_learning
+Description : Machine learning - Wikipedia
+Link : https://www.edx.org/learn/machine-learning
+Description : Machine Learning: Online Courses from Harvard, MIT, Microsoft | edX
+Link : https://www.datacamp.com/tracks/machine-learning-with-python
+Description : Machine Learning with Python Track | DataCamp
+Link : https://arxiv.org
+Description : arXiv.org e-Print archive
+Link : https://www.sas.com
+Description : Analytics, Business Intelligence and Data Management | SAS
+Link : https://xkcd.com/1838/
+Description : xkcd: Machine Learning
+Link : https://medium.com/machine-learning.../why-machine-learning-matters-6164faf1df12
+Description : A Beginner’s Guide to AI/ML ?? – Machine Learning for Humans – Medium
+Link : https://cloud.google.com/products/ai/
+Description : Cloud AI | Google Cloud
+Link : https://reference.wolfram.com/language/guide/MachineLearning.html
+Description : Machine Learning—Wolfram Language Documentation
+Link : https://www.mathworks.com/discovery/machine-learning.html
+Description : What Is Machine Learning? | How It Works, Techniques & Applications - MATLAB & Simulink
+Link : https://towardsdatascience.com/machine-learning/home
+Description : Machine Learning – Towards Data Science
+Link : https://www.brookings.edu/research/what-is-machine-learning/
+Description : What is machine learning?
+Link : https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
+Description : What is machine learning? Everything you need to know | ZDNet
+Link : https://www.youtube.com/watch?v=ukzFI9rgwfU
+Description : Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning | Simplilearn - YouTube
+Link : https://aws.amazon.com/machine-learning/
+Description : Machine Learning on AWS
